@@ -8,8 +8,8 @@ Simple WhatsApp Bot
 > pkg install nodejs
 > pkg install ffmpeg
 > pkg install imagemagick
-> git clone https://github.com/QueenNoviii/Novi
-> cd Novi
+> git clone https://github.com/QueenNoviii/vii-bot
+> cd vii-bot
 > npm install
 ```
 ###### Run
@@ -21,8 +21,8 @@ Simple WhatsApp Bot
 
 ### FOR WINDOWS/VPS/RDP USER
 ```bash
-> git clone https://github.com/QueenNoviii/Novi
-> cd Novi
+> git clone https://github.com/QueenNoviii/vii-bot
+> cd vii-bot
 > npm install
 ```
 ###### Run
