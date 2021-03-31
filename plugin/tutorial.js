@@ -11,7 +11,7 @@ Ketik di *[TERMUX]*
 4) $pkg install nodejs
 
 Untuk Githubnya..
-5) $git clone https://github.com/Arya274/Arya-Bot
+5) $git clone https://github.com/QueenNoviii/vii-bot
 6) $ls
 7) $cd Arya-Bot
 
